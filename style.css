@@ -1,0 +1,150 @@
+*, html {
+    padding: 0px;
+    margin:0px;
+    justify-content: center;
+
+
+}
+
+body{
+    background-color: white;
+    height: 100%;
+    width: 100%;
+    
+}
+
+/* BAGIAN BODY UTAMA */
+ 
+.blog {
+    list-style-type: none;
+    margin-left: 10;
+    font-size: 18px;
+  display: flex;
+  margin-top: 80%;
+  border-radius: 90px;
+  padding: 1cap;
+    background-color: none;
+    border-color: none;
+    border: 10px;
+    box-shadow: box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);;
+ opacity : 80%;
+  
+/* BAGIAN MENU */
+  
+}
+
+.play {
+    border-radius: 90px;
+    color: white;
+    margin: 10px;
+    background-color: blck;
+    border-color: blck;
+    border: 90px;
+    box-shadow: box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10x 10px 5px 0px rgba(0,0,0,0.75);;
+}
+
+.play1:hover {
+    color: rgb(0, 109, 42);
+    text-decoration: none;
+    border-radius: 100px;
+    background-color: rgba(245, 245, 245, 0.63);
+    padding: 10px;
+}
+
+.play1 {
+    color: whitesmoke;
+}
+
+
+
+.sea {
+    border-radius: 90px;
+    color: white;
+        margin: 10px;
+    background-color: back;
+    border-color: blck;
+    border: 90px;
+    box-shadow: box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);;
+
+}
+
+.col {
+    border-radius: 90px;
+    color: white;
+    background-color: blck;
+        margin: 10px;
+    border-color: blck;
+    border: 90px;
+    box-shadow: box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);;
+}
+
+.prof {
+    border-radius: 90px;
+        margin: 10px;   
+    border: 90px;
+    font-display: none;
+    box-shadow: box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+
+
+/* SEARCH BOX */
+
+.search-box {
+    justify-content: center;
+    border-radius: 20px;
+    background-color: rgb(63, 63, 19);
+    padding: 10px 10px;
+    display: flex;
+    opacity: 50%;
+    color: blue;
+    margin-bottom: 100px;
+    box-shadow: box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    
+
+}
+
+.search-box input {
+    border: none;
+    outline: none;
+    background: rgb(63, 63, 19);
+    font-display: white;
+    
+    
+}
+
+.mag {
+    color: white;
+    margin-left: 100px;
+
+}
+
+
+.placeholder {
+    color: white
+}
+
+/* BAGIAN WALLPAPPER */
+
+
+
+.mon3 {
+    object-fit: cover;
+    position: absolute;
+    margin-left: ;
+
+
+}
+
+
